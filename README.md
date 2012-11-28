@@ -1,5 +1,3 @@
-BJLGBTChorusSheetMusic
-======================
 
 ##This is the sheet music repository for Shining Jazzy Chorus.
 * [finalVer](https://github.com/bjlgbtchorus/BJLGBTChorusSheetMusic/tree/master/finalVer) is for the sheet music that we finally adopted.
